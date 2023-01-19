@@ -1,1 +1,1 @@
-This folder has additional code that was used in the paper. These analyses need extra input files that are present in this folder. 
+This folder has additional code that was used in the paper. These analyses need extra input files that are not present in Dryad or the main directory. They are present in a subfolder within this folder called 'Additional_files'. 
